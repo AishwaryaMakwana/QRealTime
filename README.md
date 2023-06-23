@@ -6,6 +6,7 @@ QRealTime Plugin allows you to:
 <ul>
 <li> Create new survey form directly from GIS layers in QGIS </li>
 <li> Synchronise data from ODK Aggregate, KoboToobox, and ODK Central servers</li>
+<a> Addition of other data centers through which information can be taken out </a>
 <li> Import data from  server </li>
 </ul>
 
@@ -47,6 +48,7 @@ Right click over any existing layer --> QRealTime and choose desired option:
 <br/>
 QRealTime plugin is capable of converting QGIS layer into data collection form. To design a data collection form for humanitarian crisis, we have to create appropriate vector layer. For the demonstration purpose, you can create the shapefile with following fields:
 <br/><br/>
+<a>Different layer capability can be enabled other than vector layer like raster layer, etc</a>
 <img src="https://user-images.githubusercontent.com/9129316/33984020-2d6d7170-e0dc-11e7-8458-c9c2feb275b6.png" alt="tables">
 
 <h3>Resources:</h3>
